@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: blueviolet;
+}
+.verde {
+    background-color: lightpink;
+    border: solid 5px lightgoldenrodyellow;
+}
+
+.azul {
+    background-color: lightskyblue;
+    padding: 5px;
+}
+
+.alturaSlider {
+    height: 500px;
+}
+
+.alturaSection {
+    height: 300px;
+}
+
+.centrarSlider {
+    display: flex;
+    justify-content: center;
+}
